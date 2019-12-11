@@ -78,7 +78,7 @@
 
 ( ) Denotes an image to be loaded inside the document.
 ( ) Denotes an imaginary line inside the document used for planning.
-( ) Its `alt` attribute describes the content to screen readers and search engines.
+( ) Contains an `alt` attribute describes the content to screen readers and search engines.
 (X) Both A and C.
 
 ?: Describe the purpose of the `<a>` element.
@@ -125,7 +125,7 @@
 03      <li>Apples</li>
 04      <li>Oranges</li>
 05      <li>Pears</li>
-06    </ol>
+06    <ul>
 ```
 
 ( ) 01
